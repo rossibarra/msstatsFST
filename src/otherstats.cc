@@ -1,5 +1,6 @@
 #include <otherstats.hpp>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 using namespace Sequence;
