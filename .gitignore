@@ -1,0 +1,12 @@
+Makefile
+config.h
+config.log
+config.status
+msstats.lsm
+msstats.spec
+seedms
+Makefile
+msstats
+msstats.o
+otherstats.o
+stamp-h
