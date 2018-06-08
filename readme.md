@@ -1,4 +1,10 @@
-A modification of  K. Thornton’s msstats program (http://molpopgen.org/software/lseqsoftware.html) that calculates Weir & Cockerham’s Fst estimator from ms simulations.
+# msstatsFST
+
+Please note this version of msstats is no longer commpatible with current libsequence. I leave hte code up here in case the code to calculate Weir & Cockerham’s Fst is of use, but this code is no longer maintained or supported.  Questions about the code should be directed to J. Ross-Ibarra.
+
+# Info
+
+This is a modification of  K. Thornton’s original msstats program that calculates Weir & Cockerham’s Fst estimator from ms simulations.
 
 You must have libsequence installed for this program to function.  
 
@@ -37,6 +43,3 @@ msstats - read data from ms via stdin, calculate common summary statistics
   along with this program; if not, write to the Free Software
   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-Comments are welcome.
-
-	- Kevin Thornton <k-thornton@uchicago.edu>
